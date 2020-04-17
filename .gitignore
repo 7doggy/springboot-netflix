@@ -46,3 +46,4 @@ buildNumber.properties
 /.idea/compiler.xml
 /.idea/codeStyles/codeStyleConfig.xml
 /springcloud-netflix.iml
+/.idea/uiDesigner.xml
